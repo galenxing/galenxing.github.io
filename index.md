@@ -5,33 +5,21 @@ My name is Galen (pronounced gallon, like, a Galen of Water).
 I'm currently a senior at Columbia University majoring in Data Science. I'm passionate about machine learning and computational biology.
 
 ## Experience:
+Currently: 
+Building ml models for the microbiome @ [Prime Discoveries](primediscoveries.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Previously: 
+Built deep learning models for GDPR compliance @ [IBM](ibm.com)
+Built multi-task neural networks for drug discovery @ [Schrödinger](schrodinger.com)
 
-```markdown
-Syntax highlighted code block
+## Research:
+Classified opiate addiction patients with [Prof. Sean Luo](http://www.columbia.edu/~xsl2101/)
+MRSA research with [Prof. Paul Planet](https://www.chop.edu/doctors/planet-paul-j)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Publications:
 
-1. Numbered
-2. List
+## Conferences:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/galenxing/galenxing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+gx2113 (at) columbia (dot) edu
