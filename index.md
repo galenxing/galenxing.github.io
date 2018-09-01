@@ -1,10 +1,10 @@
-## About Me
+# Hey!
 
-Hey! My name is Galen (pronounced gallon, like, a Galen of Water). 
+My name is Galen (pronounced gallon, like, a Galen of Water). 
 
 I'm currently a senior at Columbia University majoring in Data Science. I'm passionate about machine learning and computational biology.
 
-### Experience:
+## Experience:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
