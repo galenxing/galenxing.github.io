@@ -13,11 +13,18 @@ a {
   color: #77c4ff;
   text-decoration:none;
 }
+h1 {
+  font-size:32px;
+}
 .myname{
-	font-size: 32px;
 	color: #000000;
 }
 a:hover, a:focus {
   color:#494949;
   font-weight: bold;
+}
+section {
+  width:700px;
+  float:right;
+  padding-bottom:50px;
 }
