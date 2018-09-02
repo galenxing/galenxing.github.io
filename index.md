@@ -6,11 +6,11 @@ I'm currently a senior at Columbia University majoring in Data Science. I'm pass
 
 ## Experience:
 Currently: 
-Building ml models for the microbiome @ [Prime Discoveries](primediscoveries.com)
+* Building ml models for the microbiome @ [Prime Discoveries](primediscoveries.com)
 
 Previously: 
-Built deep learning models for GDPR compliance @ [IBM](ibm.com)
-Built multi-task neural networks for drug discovery @ [Schrödinger](schrodinger.com)
+* Built deep learning models for GDPR compliance @ [IBM](ibm.com)
+* Built multi-task neural networks for drug discovery @ [Schrödinger](schrodinger.com)
 
 ## Research:
 Classified opiate addiction patients with [Prof. Sean Luo](http://www.columbia.edu/~xsl2101/)
