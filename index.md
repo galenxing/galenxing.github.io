@@ -13,13 +13,15 @@ Previously:
 * Built multi-task neural networks for drug discovery @ [Schrödinger](schrodinger.com)
 
 ## Research:
-Classified opiate addiction patients with [Prof. Sean Luo](http://www.columbia.edu/~xsl2101/)
-MRSA research with [Prof. Paul Planet](https://www.chop.edu/doctors/planet-paul-j)
+* Classified opiate addiction patients with [Prof. Sean Luo](http://www.columbia.edu/~xsl2101/)
+* MRSA research with [Prof. Paul Planet](https://www.chop.edu/doctors/planet-paul-j)
 
 
 ## Publications:
 
+
 ## Conferences:
 
-### Contact
+
+## Contact
 gx2113 (at) columbia (dot) edu
