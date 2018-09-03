@@ -24,12 +24,12 @@ Rossi F, Diaz L, Wollam A, Panesso D, Zhou Y, Rincon S, Narechania A, **Xing G**
 \\
 **Parallel Epidemics of Community-Associated Methicillin-Resistant Staphylococcus aureus USA300 in North and South America**\\
 Planet PJ, Diaz L, Kolokotronis SO, Narechania A, Reyes J, **Xing G**, Rincon S, Smith H, Panesso D, Ryan C, Smith DP, Guzman M, Zurita J, Sebra R, Deikus G, Nolan RL, Tenover FC, Weinstock GM, Robinson DA, Arias CA.\\
-**Journal of Infectious Diseases**[link](https://www.ncbi.nlm.nih.gov/pubmed/26048971)
+**Journal of Infectious Diseases** [link](https://www.ncbi.nlm.nih.gov/pubmed/26048971)
 
 ## Conferences:
 NIPS 2016 \\
 Lucille Castori Summer Workshope on the Microbiome (2014)
 
 ## Contact:
-Hit me up if you wanna learn more, collaborate, or grab a beer!
+Hit me up if you wanna learn more, collaborate, or grab a beer! \\
 gx2113 (at) columbia (dot) edu
