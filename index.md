@@ -14,7 +14,7 @@ Previously:
 
 ## Research:
 * Worked on scRNA-seq spatial autocorrelation with [Prof. Dana Peer] (https://www.mskcc.org/research/ski/labs/dana-pe-er)\\
-* Classified opiate addiction patients with [Prof. Sean Luo](http://www.columbia.edu/~xsl2101/)\\
+* Classified opiate addiction patients with [Prof. Sean Luo](http://www.columbia.edu/~xsl2101/) \\
 Presented at ML in Healthcare Workshop at NIPS 2016
 * MRSA research with [Prof. Paul Planet](https://www.chop.edu/doctors/planet-paul-j)
 
