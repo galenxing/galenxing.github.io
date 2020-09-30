@@ -2,7 +2,7 @@
 
 My name is Galen (pronounced gallon, like, a Galen of Water). 
 
-I'm currently a software engineer @ [CZBiohub](czbiohub.org) working with [Nir Yosef](https://yoseflab.github.io/) on generative models for single cell genomics. 
+I'm currently a software engineer @ [CZBiohub](httsp://czbiohub.org) working with [Nir Yosef](https://yoseflab.github.io/) on generative models for single cell genomics. 
 
 I graduated Columbia University with a Dual Degree in CS and Statistics. I'm passionate about machine learning and computational biology.
 
