@@ -21,13 +21,13 @@ Presented at ML in Healthcare Workshop at NIPS 2016
 * MRSA research with [Prof. Paul Planet](https://www.chop.edu/doctors/planet-paul-j)
 
 ## Publications:
-**Transferable vancomycin resistance in a community-associated MRSA lineage**\\
-Rossi F, Diaz L, Wollam A, Panesso D, Zhou Y, Rincon S, Narechania A, **Xing G**, Di Gioia 	TS, Doi A, Tran TT, Reyes J, Munita JM, Carvajal LP, Hernandez-Roldan A, Brandão D, van der Heijden IM, Murray BE, Planet PJ, Weinstock GM, Arias CA. \\
-*New England Journal of Medicine* [[Paper]](https://www.nejm.org/doi/10.1056/NEJMoa1303359?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov)\\
-\\
 **Parallel Epidemics of Community-Associated Methicillin-Resistant Staphylococcus aureus USA300 in North and South America**\\
 Planet PJ, Diaz L, Kolokotronis SO, Narechania A, Reyes J, **Xing G**, Rincon S, Smith H, Panesso D, Ryan C, Smith DP, Guzman M, Zurita J, Sebra R, Deikus G, Nolan RL, Tenover FC, Weinstock GM, Robinson DA, Arias CA.\\
-*Journal of Infectious Diseases* [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/26048971)
+*Journal of Infectious Diseases*, 2015. [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/26048971)
+\\
+**Transferable vancomycin resistance in a community-associated MRSA lineage**\\
+Rossi F, Diaz L, Wollam A, Panesso D, Zhou Y, Rincon S, Narechania A, **Xing G**, Di Gioia 	TS, Doi A, Tran TT, Reyes J, Munita JM, Carvajal LP, Hernandez-Roldan A, Brandão D, van der Heijden IM, Murray BE, Planet PJ, Weinstock GM, Arias CA. \\
+*New England Journal of Medicine*, 2014. [[Paper]](https://www.nejm.org/doi/10.1056/NEJMoa1303359?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov)\\
 
 ## Contact:
 Hit me up if you wanna learn more, collaborate, or grab a beer! \\
