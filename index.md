@@ -21,6 +21,10 @@ Presented at ML in Healthcare Workshop at NIPS 2016
 * MRSA research with [Prof. Paul Planet](https://www.chop.edu/doctors/planet-paul-j)
 
 ## Publications:
+**scvi-tools: a library for deep probabilistic analysis of single-cell omics data**\\
+Gayoso A\*, Lopez R\*, **Xing G**\*, Boyeau P, Wu K, Jayasuriya M, Melhman E, Langevin M, Liu Y, Samaran J, Misrachi G, Nazaret A, Clivio O, Xu C, Ashuach T, Lotfollahi M, Svensson V, Beltrame E, Talavera-Lopez C, Pachter L, Theis F, Streets A, Jordan M, Regier J, Yosef N. (first three authors contributed equally)\\
+*bioRxiv*, 2021. [[Paper]](https://www.biorxiv.org/content/10.1101/2021.04.28.441833v1)\\
+
 **Parallel Epidemics of Community-Associated Methicillin-Resistant Staphylococcus aureus USA300 in North and South America**\\
 Planet PJ, Diaz L, Kolokotronis SO, Narechania A, Reyes J, **Xing G**, Rincon S, Smith H, Panesso D, Ryan C, Smith DP, Guzman M, Zurita J, Sebra R, Deikus G, Nolan RL, Tenover FC, Weinstock GM, Robinson DA, Arias CA.\\
 *Journal of Infectious Diseases*, 2015. [[Paper]](https://www.ncbi.nlm.nih.gov/pubmed/26048971)\\
